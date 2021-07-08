@@ -1,2 +1,1 @@
-am studying  for bank po
-updated 
+am studying  for bank pi 
