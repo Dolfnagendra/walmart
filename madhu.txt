@@ -1,1 +1,2 @@
-am learning git commands 
+am learning git commands
+git commands are very easy 
