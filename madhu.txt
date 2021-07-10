@@ -1,2 +1,3 @@
-am learning git commands
+am updating in development branch
+m learning git commands
 git commands are very easy 
